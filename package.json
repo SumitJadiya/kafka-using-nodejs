@@ -1,0 +1,22 @@
+{
+  "name": "kafka-using-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "admin.js",
+  "scripts": {
+    "start": "node admin.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SumitJadiya/kafka-using-nodejs.git"
+  },
+  "author": "Sumit Jadiya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SumitJadiya/kafka-using-nodejs/issues"
+  },
+  "homepage": "https://github.com/SumitJadiya/kafka-using-nodejs#readme",
+  "dependencies": {
+    "kafkajs": "^2.2.4"
+  }
+}
